@@ -26,10 +26,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/helalahamedkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="helalahamedkhan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/helal-ahamed-khan-463324108/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/helal-ahamed-khan-463324108/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/helal-ahamed-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="helal-ahamed-khan" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/networkworld24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/networkworld24" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/helalahamedkhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/helalahamedkhan/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/c/networkingworld/featured" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/c/networkingworld/featured" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/networkingworld" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="networkingworld" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
